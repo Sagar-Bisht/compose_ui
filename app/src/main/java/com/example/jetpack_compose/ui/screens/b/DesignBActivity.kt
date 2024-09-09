@@ -1,4 +1,4 @@
-package com.example.jetpack_compose.ui.b
+package com.example.jetpack_compose.ui.screens.b
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity

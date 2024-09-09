@@ -1,4 +1,4 @@
-package com.example.jetpack_compose.ui.a
+package com.example.jetpack_compose.ui.screens.a
 
 import android.os.Bundle
 import android.widget.Toast

@@ -1,4 +1,4 @@
-package com.example.jetpack_compose.ui.a
+package com.example.jetpack_compose.ui.screens.a
 
 import androidx.compose.foundation.Image
 import androidx.compose.foundation.layout.Arrangement
