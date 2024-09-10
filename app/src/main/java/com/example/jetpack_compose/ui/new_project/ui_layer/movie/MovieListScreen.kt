@@ -1,4 +1,4 @@
-package com.example.jetpack_compose.ui.new_project.ui_layer
+package com.example.jetpack_compose.ui.new_project.ui_layer.movie
 
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Box

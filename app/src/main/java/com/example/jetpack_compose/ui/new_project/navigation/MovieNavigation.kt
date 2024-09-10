@@ -4,8 +4,8 @@ import androidx.compose.runtime.Composable
 import androidx.navigation.NavHostController
 import androidx.navigation.compose.NavHost
 import androidx.navigation.compose.composable
-import com.example.jetpack_compose.ui.new_project.ui_layer.MovieListScreen
-import com.example.jetpack_compose.ui.new_project.ui_layer.MovieDetailScreen
+import com.example.jetpack_compose.ui.new_project.ui_layer.movie.MovieListScreen
+import com.example.jetpack_compose.ui.new_project.ui_layer.details.MovieDetailScreen
 
 @Composable
 fun MovieNavigation(navHostController: NavHostController) {
